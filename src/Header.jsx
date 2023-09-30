@@ -20,8 +20,8 @@ export const Header = () => {
     <div>
       <nav>
         <div className="burger-menu" onClick={updateMenu}>
-          <div className={burger_class}>about</div>
-          <div className={burger_class}>me</div>
+          <div className={burger_class}></div>
+          <div className={burger_class}></div>
           <div className={burger_class}></div>
         </div>
       </nav>
